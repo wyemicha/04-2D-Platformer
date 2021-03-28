@@ -1,14 +1,13 @@
-# Exercise-02d-Godot-Template
-Exercise for MSCH-C220, 15 February 2021
+# Project 4-MSCH-C220
+Project 4 for MSCH-C220, 27 March 2021
 
-A Godot Project Template, for use in future projects.
 
 ## Implementation
 Built using Godot 3.2.3
-Includes WASD mappings (up, left, down, right) and escape to quit.
+
 
 ## References
-None
+Jason Francis
 
 ## Future Development
 None
